@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.footer{
+background-color:green;
+font-color: white;
+font-size:30px;
+width:100%;
+margin-bottom:600px;
+} 
+p{
+font-color:red;
+font-size:30px;
+}
+p:hover{
+background-color:orange;
+}
+.imgsleeper{
+align:middle;
+height:200px;
+width: 200px;
+}
+.sleeper{
+background-color:orange;
+}
+img{
+height:360px;
+width:400px;
+}
+td{
+height:365px;
+width:410px;
+}
+h1{
+font-size: 40px;
+align:center;
+background-color:yellow;
+}
+table{
+margin:10px;
+}
+.tableclass{
+background-color:#c0c0c0;
+}
+.tablesleep{
+height:200px;
+width: 400px;
+}
+.tablesleepimage{
+align:middle;
+height:200px;
+width:200px;
+}
+</style>
+<title> C-TOP </title>
+</head>
+<body>
+<h1> C-TOP BAKAITS </h1>
+<div class="tableclass">
+<table>
+<tr>
+<td>
+ <a href="vinayak.html"> <p class="a"> Vinayak </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/l/t1.0-9/15622504_782205265252136_5942961072120051189_n.jpg?oh=02d10dba6036f555e75f35e1b9228282&oe=59050CFE"> </td>
+<td> <a href="sudheer.html"> <p> Sudheer </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15326515_217713272005530_4437459623175554900_n.jpg?oh=f46abd963376e6822c0e115b2f8eac7e&oe=59416CA8"> </td>
+<td> <a href="pritam.html"> <p> Pritam </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15590545_237898866633187_4289734179525280866_n.jpg?oh=0f27b6c099e20ce1d68c850443e89c4f&oe=591546B1"> </td>
+</tr>
+<tr>
+<td> <a href="rohit.html"> <p> Rohit </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15542348_1192778187443741_1976065405498445122_n.jpg?oh=ed33fc33ad1bbc70aef469351dda39c5&oe=590CD034"> </td>
+<td> <a href="prashant.html"> <p> Prashant </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/13612321_138876316554531_8869540936243445086_n.jpg?oh=2b84f39a34dc173ff73ae42928330d03&oe=59478C6B"> </td>
+<td> <a href="shubham.html"> <p> Shubham </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/13266055_997984413625416_6246314911867796640_n.jpg?oh=de98002a3a9d0bc1f8fd69ff0196e2ec&oe=594C47C1"> </td>
+</tr>
+<tr>
+<td>
+<a href="karan.html"> <p> Karan </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/16298822_277887342631167_1120022718885936397_n.jpg?oh=0ff61bb7994d229480294742d0915dc2&oe=590F592E"> </td>
+<td> <a href="vagish.html"> <p> Vagish </p> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t31.0-8/13909191_955247311253112_64974527831576187_o.jpg?oh=58efbcaec29261ca94a01648b1302707&oe=5900D836"> </td>
+<td> <a href="anurag.html"> <p> Anurag </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/11391451_553976584742977_8289577849250358012_n.jpg?oh=96e7a17e0a7b932c153768b99db9dcde&oe=594A2396"> </td>
+</tr>
+<tr>
+<td>
+<a href="prafful.html"> <p> Prafful </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t31.0-8/15975134_1228351473913764_680137487172384106_o.jpg?oh=599acb2427918955772a7f3acadee832&oe=59093EDD"> </td>
+<td> <a href="maab.html"> <p> Maab </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15230601_1177359739012938_7037374075193606192_n.jpg?oh=f93616e66169f5a0e1bc7c595fbb4ae0&oe=5943E4CE"> </td>
+<td> <a href="omkar.html"> <p> Omkar </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15940957_422247184833072_6836433990359581782_n.jpg?oh=9e35615db180b938e126acbd73d58d69&oe=5904E973"> </td>
+</tr>
+<tr>
+<td> <a href="vaibhav.html"> <p> Vaibhav </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15871577_1154629324634434_3357904010871063165_n.jpg?oh=7a300af2e8eabd60441c221feb9cb840&oe=59059376"></td>
+<td> <a href="wrishik.html"> <p> Wrishik </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15590478_1391399730905169_8108863042527288382_n.jpg?oh=64dda72c6a54d449af78ee96429f2ba3&oe=594512D7"> </td>
+<td> <a href="saubhagya.html"> <p> Saubhagya </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15781549_1079203782207345_7064252868532555294_n.jpg?oh=b3343591a4b817065de9755cec471daa&oe=59003BE0"> </td>
+</tr>
+<tr>
+<td> <a href="somesh.html"> <p> Somesh </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15672632_1404884676256824_3780437050226843194_n.jpg?oh=fd45923fa42652377839358827c1b6b9&oe=5910519C"> </td>
+<td> <a href="subham.html"> <p> Subham </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15349620_1820151338265387_8374349920361087397_n.jpg?oh=91af225883a40a839313ef8bb4ac7710&oe=590B25AF"> </td>
+<td> <a href="pragati.html"> <p> Pragati </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t31.0-8/s960x960/14409874_1180180808743041_803285606630436670_o.jpg?oh=c5595343e42beed21eaddcf0a64c4ae5&oe=594C4158"> </td>
+</tr>
+<tr>
+<td> <a href="kshitij.html"> <p> Kshitij </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15326344_224953234597182_2362312750702431199_n.jpg?oh=bfbbe12b008c0ab49d8a891bd7e4802b&oe=59114261"> </td>
+<td>  <a href="chaman.html"> <p> Chaman </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15390727_1217861961637712_3883989148004995289_n.jpg?oh=8effe09708552653163d7b520fa72935&oe=59473DE3"> </td>
+<td>  <a href="sameer.html"> <p> Sameer </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15337430_392049867792938_5687318102231293506_n.jpg?oh=0c692358aeb5e1478b1c85c3bd7872c1&oe=5941E711"> </td>
+</tr>
+<tr>
+<td> <a href="ankur.html"> <p> Ankur </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/13567160_1618503105132236_6776441811241752893_n.jpg?oh=d84b102f8694dec393cdb8cb7630d752&oe=594B395A"> </td>
+<td> <a href="rahul.html"> <p> Rahul </p> </a> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/14053957_169021890190447_7150965780439233564_n.jpg?oh=05d2e987ac6ccbc3c16c7443ba372f05&oe=58FEA259"> </td>
+</tr>
+</table>
+<div class="sleeper">
+<h1> C-TOP Repi </h1>
+<img src="
+https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/16298822_277887342631167_1120022718885936397_n.jpg?oh=0ff61bb7994d229480294742d0915dc2&oe=590F592E" class="imgsleeper"> 
+<h1> C-TOP SLEEPERS </h1>
+<table>
+<tr>
+<td class="tablesleep"> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15871577_1154629324634434_3357904010871063165_n.jpg?oh=7a300af2e8eabd60441c221feb9cb840&oe=59059376" class="tablesleepimage"> </td>
+<td class="tablesleep"> <img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/13612321_138876316554531_8869540936243445086_n.jpg?oh=2b84f39a34dc173ff73ae42928330d03&oe=59478C6B"> </td>
+</tr>
+</table>
+</div>
+</div>
+<div class="footer">
+<p> Created by- VINAYAK TRIVEDI </p>
+</div>
+</body>
+</html>

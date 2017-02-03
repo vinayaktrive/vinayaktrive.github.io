@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.main{
+height:210px;
+margin:auto;
+background-color:yellow;
+font-color:red;
+font-size: 30px;
+}
+</style>
+<title> location </title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+ <div class="main">
+   <p> IIT Kanpur is located in the outskirts of city Kanpur in Uttar Pradesh. It takes about an hour to reach IIT from central railway station. Nearest railway station to IIT is kalyanpur, and nearest colony is also Kalyanpur. It is located in greenery environement, away from noises of city. It is about 17 Kms from main city, Kanpur. </p>
+</div>
+</body>
+</html>

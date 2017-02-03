@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> PRAFFUL</title>
+<style>
+h1{
+font-color:blue;
+background-color:orange;
+font-size:40px;
+text-align:center;
+}
+.fb{
+height:30px;
+width:30px;
+
+}
+.fb:hover{
+height:40px;
+width:40px;
+}
+td{
+background-color:#93dc69;
+height: 800px;
+width: 500px;
+}
+img{
+height: 780px;
+width:1000px;
+}
+.contact>p{
+font-color:blue;
+}
+.fb{
+position:relative;
+left:700px;
+}
+p{
+font-size:35px;
+}
+</style>
+</head>
+<body>
+<h1> PRAFFUL SHARMA </h1>
+<div class="tableclass">
+<table>
+<tr>
+<td> 
+
+<p> <strong> Branch: </strong> CIVIL </p>
+<p> <strong> Room no: </strong> 331 </p>
+<p> Expert in abusing, and giving suggestions on every topic, but a helpful person in need!</p>
+</td>
+<td>
+<img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t31.0-8/15975134_1228351473913764_680137487172384106_o.jpg?oh=599acb2427918955772a7f3acadee832&oe=59093EDD"> </td> </tr>
+<div class="contact"> 
+<h1> Contact him </h1> <a href="https://www.facebook.com/prafful.sharma.5?fref=ts"> <img src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png" class="fb"> </a>
+</div>
+</body>
+</html>

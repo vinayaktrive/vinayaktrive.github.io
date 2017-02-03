@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Ankur</title>
+<style>
+h1{
+font-color:blue;
+background-color:orange;
+font-size:40px;
+text-align:center;
+}
+.fb{
+height:30px;
+width:30px;
+}
+.fb:hover{
+height:40px;
+width:40px;
+}
+td{
+background-color:#93dc69;
+height: 800px;
+width: 600px;
+}
+img{
+height: 880px;
+width:1000px;
+}
+.contact>p{
+font-color:blue;
+}
+.fb{
+position:relative;
+left: 700px;
+}
+</style>
+</head>
+<body>
+<h1> ANKUR SINGH </h1>
+<div class="tableclass">
+<table>
+<tr>
+<td> 
+
+<p> <strong> Branch: </strong> Electrical </p>
+<p> <strong> Room no: </strong> 327 </p>
+<p> Remains desperate with CSE branch, cracks humourous jokes, an interactive and good football player!!</p>
+</td>
+<td>
+<img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/13567160_1618503105132236_6776441811241752893_n.jpg?oh=d84b102f8694dec393cdb8cb7630d752&oe=594B395A"> </td> </tr>
+<div class="contact"> 
+<h1> Contact him </h1> <a href="https://www.facebook.com/profile.php?id=100009176850179&fref=ts"> <img src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png" class="fb"> </a>
+</div>
+</body>
+</html>

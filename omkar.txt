@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> OMKAR</title>
+<style>
+h1{
+font-color:blue;
+background-color:orange;
+font-size:40px;
+text-align:center;
+}
+.fb{
+height:30px;
+width:30px;
+
+}
+.fb:hover{
+height:40px;
+width:40px;
+}
+td{
+background-color:#93dc69;
+height: 800px;
+width: 500px;
+}
+img{
+height: 780px;
+width:1000px;
+}
+.contact>p{
+font-color:blue;
+}
+.fb{
+position:relative;
+left:700px;
+}
+p{
+font-size:35px;
+}
+</style>
+</head>
+<body>
+<h1> OMKAR KUMAR </h1>
+<div class="tableclass">
+<table>
+<tr>
+<td> 
+
+<p> <strong> Branch: </strong> Electrical</p>
+<p> <strong> Room no: </strong> 330 </p>
+<p> Nuetral one, interacts only with counselling brothers, but helpful anf friendly. Chaapu banda! Patna ki Shaan</p>
+</td>
+<td>
+<img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/15940957_422247184833072_6836433990359581782_n.jpg?oh=9e35615db180b938e126acbd73d58d69&oe=5904E973"> </td> </tr>
+<div class="contact"> 
+<h1> Contact him </h1> <a href="https://www.facebook.com/omkarchampion2?fref=ts"> <img src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png" class="fb"> </a>
+</div>
+</body>
+</html>
